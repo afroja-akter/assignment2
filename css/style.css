@@ -1,0 +1,71 @@
+body,h1,h2{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+p,a{
+
+    color: black;
+
+}
+
+@media screen and (max-width: 600px){
+    .logo-img{
+        width: 190px;
+    }
+}
+.logo-img{
+    width: 250px;
+}
+.heading1{
+    font-size: 70px;
+    color: #ff9933;
+}
+.heading2{
+    font-size: 70px;
+    color: #00134d;
+}
+header{
+    height: 600px;
+}
+.buttons{
+    border: none;
+    padding: 12px 25px;
+    background-color:  #86b300;
+    color: white;
+    border-radius: 8px;
+}
+.btn-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.product-title{
+    font-size: 40px;
+    color:#00134d;
+}
+
+.dress-img{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.price{
+    color: #ff9933;
+    font-size: 35px;
+}
+.contact{
+    margin-top: 80px;
+}
+
+.contact-text h4{
+    font-size: 22px;
+    padding-top: 5px;
+}
+.contact-text p{
+    font-size: 13px;
+}
+
